@@ -2,4 +2,4 @@
 - 👀 I’m interested in Web Programming
 - 🌱 I’m currently learning Vue js and Spring Framework
 - 💞️ I’m looking to collaborate on open project website 
-- 📫 How to reach me on my gmail: ibnu.alinsani.work@gmail.com
+- 📫 Reach me on my gmail: ibnu.alinsani.work@gmail.com
